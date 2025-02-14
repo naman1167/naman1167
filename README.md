@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fc/f8/d3/fcf8d352ade303f7070f269d8fd7e33a.gif" alt="Network Cyber Security Hack">
+</p>
 
 
 # 👋 Hi there, I'm Naman Sethi!  
@@ -79,11 +82,5 @@ I have a knack for breaking down **complex security issues** into **simple, scal
 ## 💡 Animations for Tech Stack  
 You can also add some GIF animations to make it more lively:
 
-- **Animated Tech Stack**:  
-  Example:  
-  ![Tech GIF](https://media.giphy.com/media/XreQmk7tVxOhz57p7a/giphy.gif)
 
-- **Cybersecurity GIF**:  
-  Example:  
-  ![Cybersecurity GIF](https://media.giphy.com/media/Ws7aLg4L2eRH5cZ0ja/giphy.gif)
 
