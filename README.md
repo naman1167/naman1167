@@ -1,57 +1,89 @@
-👋 Hi there, I'm Naman Sethi!
-
-Welcome to my GitHub! I'm a passionate cybersecurity enthusiast who loves coding, automation, and exploring new technologies. Always learning and building cool projects! 🚀
-
-🚀 About Me
-
-🔒 Cybersecurity Enthusiast
-
-🔍 Exploring Penetration Testing, Network Security, and Threat Analysis
-
-🎯 Passionate about security research, open-source contributions, and automation
-
-🌱 Constantly improving and experimenting with new security tools & techniques
-
-🎥 Coding Vibes
 
 
 
-📊 GitHub Stats & Activity
+# 👋 Hi there, I'm Naman Sethi!  
 
+Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves coding, automation, and exploring new technologies. Always learning and building cool projects! 🚀  
 
+---
 
+## 🚀 About Me  
 
-🛠️ Tech Stack & Tools
+- 🔒 **Cybersecurity Enthusiast**  
+- 🔍 Exploring **Penetration Testing, Network Security, and Threat Analysis**  
+- 🎯 Passionate about **security research, open-source contributions, and automation**  
+- 🌱 Constantly improving and experimenting with **new security tools & techniques**  
+- 🎯 **Bug Bounty Hunter** on **HackerOne** & **Bugcrowd**  
+- 🎥 **Coding Vibes**  
 
-🚀 Programming Languages
+---
 
-📝 JavaScript | Python | C++ | Java
+## 🛠️ Tech Stack & Tools  
 
-🌐 Web Development
+### 🚀 Programming Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
-🖥️ HTML | CSS
+### 🌐 Web Development  
+- 🖥️ HTML | CSS  
 
-🛢️ Databases
+### 🛢️ Databases  
+- 🗄️ MySQL  
 
-🗄️ MySQL
+### 🛠️ Cybersecurity & Tools  
+- 🛡️ Kali Linux | Metasploit | Burp Suite | Wireshark | Nmap | OSINT Tools  
 
-🛠️ Cybersecurity & Tools
+### 🛠️ DevOps & Tools  
+- 🐳 Docker | AWS | Git | CI/CD Pipelines  
 
-🛡️ Kali Linux | Metasploit | Burp Suite | Wireshark | Nmap | OSINT Tools
+---
 
-🛠️ DevOps & Tools
+## 🎯 Bug Bounty Platforms  
 
-🐳 Docker | AWS | Git | CI/CD Pipelines
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/NAMANSETHI)  
+[![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/naman1305)  
 
-🌐 Connect with Me
+---
 
+## 📊 GitHub Stats & Activity  
 
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman1167&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naman1167&layout=compact&theme=radical)  
 
+---
 
+## 🌐 Connect with Me  
 
-⚡ Fun Fact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sethi-912608320)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansethi1167@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naman_sethi_1167)  
 
-I have a knack for breaking down complex security issues into simple, scalable solutions. Always up for a challenge! 💡
+---
 
-🚀 Thanks for stopping by! If you like my work, star ⭐ my repositories and let's collaborate on something awesome! 😃
+## ⚡ Fun Fact  
+
+I have a knack for breaking down **complex security issues** into **simple, scalable solutions**. Always up for a challenge! 💡  
+
+🚀 Thanks for stopping by! If you like my work, **star ⭐ my repositories** and let's collaborate on something awesome! 😃  
+
+---
+
+💻 Happy Hacking! 🚀
+
+---
+
+## 💡 Animations for Tech Stack  
+You can also add some GIF animations to make it more lively:
+
+- **Animated Tech Stack**:  
+  Example:  
+  ![Tech GIF](https://media.giphy.com/media/XreQmk7tVxOhz57p7a/giphy.gif)
+
+- **Cybersecurity GIF**:  
+  Example:  
+  ![Cybersecurity GIF](https://media.giphy.com/media/Ws7aLg4L2eRH5cZ0ja/giphy.gif)
 
