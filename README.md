@@ -1,73 +1,57 @@
-Project Name
+👋 Hi there, I'm Naman Sethi!
+
+Welcome to my GitHub! I'm a passionate cybersecurity enthusiast who loves coding, automation, and exploring new technologies. Always learning and building cool projects! 🚀
+
+🚀 About Me
+
+🔒 Cybersecurity Enthusiast
+
+🔍 Exploring Penetration Testing, Network Security, and Threat Analysis
+
+🎯 Passionate about security research, open-source contributions, and automation
+
+🌱 Constantly improving and experimenting with new security tools & techniques
+
+🎥 Coding Vibes
 
 
 
-🚀 About the Project
-
-A brief and compelling description of your project. Mention what it does, why it exists, and how it can benefit users.
-
-🎯 Features
-
-✅ Feature 1
-
-✅ Feature 2
-
-✅ Feature 3
-
-📸 Screenshots
+📊 GitHub Stats & Activity
 
 
 
 
-🛠️ Installation
+🛠️ Tech Stack & Tools
 
-# Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+🚀 Programming Languages
 
-# Navigate to the project directory
-cd yourproject
+📝 JavaScript | Python | C++ | Java
 
-# Install dependencies
-npm install  # or yarn install
+🌐 Web Development
 
-# Start the project
-npm start  # or yarn start
+🖥️ HTML | CSS
 
-📌 Usage
+🛢️ Databases
 
-Explain how users can interact with your project. Provide examples if necessary.
+🗄️ MySQL
 
-🏗️ Technologies Used
+🛠️ Cybersecurity & Tools
 
-🖥️ Technology 1
+🛡️ Kali Linux | Metasploit | Burp Suite | Wireshark | Nmap | OSINT Tools
 
-📦 Technology 2
+🛠️ DevOps & Tools
 
-🔧 Technology 3
-
-👥 Contributing
-
-Fork the repository
-
-Create a new branch (git checkout -b feature-branch)
-
-Commit your changes (git commit -m 'Add a new feature')
-
-Push to the branch (git push origin feature-branch)
-
-Create a Pull Request
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+🐳 Docker | AWS | Git | CI/CD Pipelines
 
 🌐 Connect with Me
 
-LinkedIn: Naman Sethi
 
-Instagram: @naman_sethi_1167
 
-Email: namansethi1167@gmail.com
 
-GitHub: yourusername
+
+⚡ Fun Fact
+
+I have a knack for breaking down complex security issues into simple, scalable solutions. Always up for a challenge! 💡
+
+🚀 Thanks for stopping by! If you like my work, star ⭐ my repositories and let's collaborate on something awesome! 😃
 
