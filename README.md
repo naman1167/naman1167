@@ -73,14 +73,7 @@ I have a knack for breaking down **complex security issues** into **simple, scal
 
 🚀 Thanks for stopping by! If you like my work, **star ⭐ my repositories** and let's collaborate on something awesome! 😃  
 
----
 
-💻 Happy Hacking! 🚀
-
----
-
-## 💡 Animations for Tech Stack  
-You can also add some GIF animations to make it more lively:
 
 
 
