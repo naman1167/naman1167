@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/fc/f8/d3/fcf8d352ade303f7070f269d8fd7e33a.gif" alt="Network Cyber Security Hack">
 </p>
-
 
 # 👋 Hi there, I'm Naman Sethi!  
 
@@ -29,6 +27,7 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
 
 ### 🌐 Web Development  
@@ -72,8 +71,3 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
 I have a knack for breaking down **complex security issues** into **simple, scalable solutions**. Always up for a challenge! 💡  
 
 🚀 Thanks for stopping by! If you like my work, **star ⭐ my repositories** and let's collaborate on something awesome! 😃  
-
-
-
-
-
