@@ -28,19 +28,32 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-### 🌐 Web Development  
-- 🖥️ HTML | CSS  
-
 ### 🛢️ Databases  
-- 🗄️ MySQL  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 ### 🛠️ Cybersecurity & Tools  
-- 🛡️ Kali Linux | Metasploit | Burp Suite | Wireshark | Nmap | OSINT Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-%230557A6.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Metasploit-%2300AEEF.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Burp_Suite-%23FF6600.svg?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wireshark-%231672A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Nmap-%230050A0.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/OSINT_Tools-%23000000.svg?style=for-the-badge&logo=osint&logoColor=white" alt="OSINT Tools">
+</p>  
 
 ### 🛠️ DevOps & Tools  
-- 🐳 Docker | AWS | Git | CI/CD Pipelines  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI/CD-%23000000.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD">
+</p>  
 
 ---
 
@@ -70,4 +83,4 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
 
 I have a knack for breaking down **complex security issues** into **simple, scalable solutions**. Always up for a challenge! 💡  
 
-🚀 Thanks for stopping by! If you like my work, **star ⭐ my repositories** and let's collaborate on something awesome! 😃  
+🚀 Thanks for stopping by! If you like my wo
