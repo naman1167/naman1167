@@ -5,7 +5,6 @@
 # 👋 Hi there, I'm Naman Sethi!  
  
 Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves coding, automation, and exploring new technologies. Always learning and building cool projects! 🚀  
-
 --- 
 
 ## 🚀 About Me  
