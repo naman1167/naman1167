@@ -9,7 +9,6 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
 
 ## 🚀 About Me  
 
-
 - 🔒 **Cybersecurity Enthusiast**  
 - 🔍 Exploring **Penetration Testing, Network Security, and Threat Analysis**  
 - 🎯 Passionate about **security research, open-source contributions, and automation**  
