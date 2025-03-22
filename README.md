@@ -12,7 +12,6 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
 
 - 🔒 **Cybersecurity Enthusiast**  
 - 🔍 Exploring **Penetration Testing, Network Security, and Threat Analysis**
-- 
 - 🎯 Passionate about **security research, open-source contributions, and automation**  
 - 🌱 Constantly improving and experimenting with **new security tools & techniques**  
 - 🎯 **Bug Bounty Hunter** on **HackerOne** & **Bugcrowd**  
