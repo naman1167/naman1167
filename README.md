@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/fc/f8/d3/fcf8d352ade303f7070f269d8fd7e33a.gif" alt="Network Cyber Security Hack">
 </p>
 
-# 👋 Hi there, I'm Naman Sethi!  
+# 👋 Hi there, I'm Naman Sethi! 
 
 
 Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves coding, automation, and exploring new technologies. Always learning and building cool projects! 🚀  
