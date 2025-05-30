@@ -44,6 +44,17 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
 </p>  
 
 ---
+## 🧠 TryHackMe Badge  
+
+<p align="center">
+  <a href="https://tryhackme.com/p/3925745" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/3925745.png" alt="TryHackMe">
+    
+[![Visit my TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/namansethi1305)
+
+  </a>
+</p>
+
 
 
 ## 🎯 Bug Bounty Platforms  
