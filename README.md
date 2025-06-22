@@ -48,8 +48,7 @@ Welcome to my GitHub! I'm a passionate **cybersecurity enthusiast** who loves co
 ---
 ## 🎯 Bug Bounty Platforms  
 
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/Naman_Sethi)  
-[![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/naman1305)  
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/Naman_Sethi)  [![HackerOne](https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/naman1305)  
 
 ---
 
